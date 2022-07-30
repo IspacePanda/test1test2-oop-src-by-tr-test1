@@ -1,8 +1,8 @@
 package by.epam.tr.test1;
 
 public class Test1 {
-	public int a;
-	public int b;
+	private int a;
+	private int b;
 
 	public void print() {
 		System.out.println("a = " + a);
